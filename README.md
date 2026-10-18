@@ -105,10 +105,4 @@ Frontend foundation in React.js & Node.js - currently going deep on backend engi
 </p>
 
 
-<br/><br/>
-<hr/>
-<br/><br/>
-# Profile Stats
-<p align="center"><img align="center" src="" alt="afnan" /></p>
-<br/><br/>
-<h5>Currently building backend/Java projects — will be added here as they ship. Below are my completed full-stack & frontend projects.</h5> <br/>
+
