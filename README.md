@@ -1,19 +1,118 @@
-## Hi there 👋
-
-<!--
-**0xafnxn-dev/0xafnxn-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
 
 
-<img src="https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3OTIzMTA0NjMsIm5iZiI6MTc5MjMxMDE2MywicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjEwMTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYxMDE4VDA3NTYwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTY4NzZhYjRkZGIzZmJhMjRiMTRkMmYxZmE1MTRhMjBlM2M4YWUzNTMwYzk0YjUxZWJhYmRmNmNkMWFjM2U5OWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.wyYMI9-_3K774urVblbPK-16TexDaKR8JibYHFZGviQ"/>
+<h1 align="center">Hi 👋, I'm afnan</h1>
+<h3 align="center">
+  Aspiring Backend Developer • Java • Spring Boot • Hibernate • REST APIs <br/>
+Frontend foundation in React.js & Node.js - currently going deep on backend engineering
+</h3>
+<br/>
+
+<img align="right" width="500px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/><br/>
+
+- 🎯 Currently focused on **Java Backend Development** — Spring Boot, Hibernate, REST APIs, Kafka
+  
+- 💡 Background in **React.js & Node.js**, now building backend depth
+ 
+- 👨‍💻 Explore my projects on **GitHub**, where I build and deploy full-stack applications | [Github](Github)
+  
+- 💬 Open to discussions on **Java, Spring Boot, Hibernate, Rest APIs, React, JavaScript, and modern web development**
+  
+- 📫 Reach me at: ****
+
+
+<br/>
+<h3 align="left">🌐 Connect with Me</h3>
+
+<p align="left">
+  <a href="">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=plastic&logo=linkedin&logoColor=white" height="35"/>
+  </a>
+  <a href="mailto:">
+    <img src="https://img.shields.io/badge/Email-D14836?style=plastic&logo=gmail&logoColor=white" height="35"/>
+  </a>
+</p>
+
+<p align="left">
+  <a href="">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=plastic&logo=Instagram&logoColor=white" height="35"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/X-black.svg?style=plastic&logo=X&logoColor=white" height="35"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Discord-%237289DA.svg?style=plastic&logo=discord&logoColor=white" height="35"/>
+  </a>
+  <a href="">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=plastic&logo=stack-overflow&logoColor=white" height="35"/>
+  </a>
+</p>
+<br/>
+<br/>
+<hr/>
+<br/>
+
+<h3 align="center">Tech Stack</h3>
+
+<br/>
+
+<h4 align="center">Frontend</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react_router-CA4245?style=plastic&logo=react-router&logoColor=white"/>
+  <img src="https://img.shields.io/badge/react_hook_form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/semantic_ui_react-%2335BDB2.svg?style=plastic&logo=SemanticUIReact&logoColor=white"/>
+</p>
+
+<h4 align="center">Backend</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/mongodb-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/jwt-black?style=plastic&logo=JSON%20web%20tokens"/>
+</p>
+
+<h4 align="center">Programming Languages</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E"/>
+</p>
+
+<h4 align="center">Tools & Platforms</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/npm-%23CB3837.svg?style=plastic&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7"/>
+  <img src="https://img.shields.io/badge/render-%46E3B7.svg?style=plastic&logo=render&logoColor=white"/>
+  <img src="https://img.shields.io/badge/windows_terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/nodemon-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD"/>
+  <img src="https://img.shields.io/badge/babel-F9DC3e?style=plastic&logo=babel&logoColor=black"/>
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white"/>
+</p>
+
+
+<br/><br/>
+<hr/>
+<br/><br/>
+# Profile Stats
+<p align="center"><img align="center" src="" alt="afnan" /></p>
+<br/><br/>
+<h5>Currently building backend/Java projects — will be added here as they ship. Below are my completed full-stack & frontend projects.</h5> <br/>
+
+
+
+
+<br/>
+<br/>
+<p align="center">
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="900">
+</p>
+<br><br>
