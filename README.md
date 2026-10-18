@@ -1,4 +1,10 @@
- 
+
+ <br/>
+<br/>
+<p align="center">
+<img src="https://github.com/user-attachments/assets/d018e550-a469-45a8-8a4c-97db87c4d27d" width="900">
+</p>
+<br><br
 
 
 <h1 align="center">Hi 👋, I'm afnan</h1>
@@ -106,13 +112,3 @@ Frontend foundation in React.js & Node.js - currently going deep on backend engi
 <p align="center"><img align="center" src="" alt="afnan" /></p>
 <br/><br/>
 <h5>Currently building backend/Java projects — will be added here as they ship. Below are my completed full-stack & frontend projects.</h5> <br/>
-
-
-
-
-<br/>
-<br/>
-<p align="center">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/72903324-cf57-4e90-80a6-ed3c9734e0ed" width="900">
-</p>
-<br><br>
